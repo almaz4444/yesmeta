@@ -2,6 +2,10 @@
 
 A satirical take on chat etiquette. Unlike the traditional *nometa* concept that discourages meta-questions, this site jokingly advocates for asking them to ensure "polite" communication.
 
+<p align="center">
+  <img src="assets/screenshot.jpg" alt="YesMeta Screenshot" width="800">
+</p>
+
 ## 🌍 Internationalization
 
 The site supports multiple languages:
@@ -20,6 +24,7 @@ The site supports multiple languages:
 ## 📂 Project Structure
 
 ```text
+├── assets/      # Images for documentation
 ├── index.html   # Main English page
 ├── ru.html      # Russian translation
 ├── uk.html      # Ukrainian translation
